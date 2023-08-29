@@ -1,2 +1,3 @@
 # Study_AI
-Repositório para estudo de inteligência artificial
+
+Repositório em construção para desenvolvimento de algoritmos de treinamento de IA dos desafios da DeLorenzo.
